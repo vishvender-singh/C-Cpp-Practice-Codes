@@ -1,4 +1,5 @@
-//ascii  code
+// Program to find the average ASCII character for every word in a string and store it in a new string.
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h>
